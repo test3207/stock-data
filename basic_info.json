@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-09-25 16:15:36",
-  "record_count": 5434,
+  "last_updated": "2025-10-22 09:31:13",
+  "record_count": 5439,
   "data": [
     {
       "symbol": "000001.SZ",
@@ -45,7 +45,6 @@
     {
       "symbol": "000008.SZ",
       "name": "神州高铁",
-      "list_date": "1992-05-07",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -85,7 +84,6 @@
     {
       "symbol": "000014.SZ",
       "name": "沙河股份",
-      "list_date": "1992-06-02",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -101,7 +99,6 @@
     {
       "symbol": "000017.SZ",
       "name": "深中华A",
-      "list_date": "1992-03-31",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -341,7 +338,6 @@
     {
       "symbol": "000065.SZ",
       "name": "北方国际",
-      "list_date": "1998-06-05",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -709,7 +705,6 @@
     {
       "symbol": "000498.SZ",
       "name": "山东路桥",
-      "list_date": "1997-06-09",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -1237,7 +1232,6 @@
     {
       "symbol": "000591.SZ",
       "name": "太阳能",
-      "list_date": "1996-02-08",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -1427,14 +1421,6 @@
       "exchange": "SZ"
     },
     {
-      "symbol": "000627.SZ",
-      "name": "*ST天茂",
-      "list_date": "1996-11-12",
-      "is_st": 1.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
       "symbol": "000628.SZ",
       "name": "高新发展",
       "list_date": "1996-11-18",
@@ -1605,6 +1591,7 @@
     {
       "symbol": "000668.SZ",
       "name": "*ST荣控",
+      "list_date": "1996-12-10",
       "is_st": 1.0,
       "market": "A",
       "exchange": "SZ"
@@ -1744,8 +1731,8 @@
     },
     {
       "symbol": "000698.SZ",
-      "name": "沈阳化工",
-      "is_st": 0.0,
+      "name": "ST沈化",
+      "is_st": 1.0,
       "market": "A",
       "exchange": "SZ"
     },
@@ -3437,6 +3424,13 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "001285.SZ",
+      "name": "瑞立科密",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "001286.SZ",
       "name": "陕西能源",
       "is_st": 0.0,
@@ -3754,6 +3748,13 @@
     {
       "symbol": "001382.SZ",
       "name": "新亚电缆",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "001386.SZ",
+      "name": "N马可波罗",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -4789,7 +4790,7 @@
     },
     {
       "symbol": "002145.SZ",
-      "name": "中核钛白",
+      "name": "钛能化学",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -12125,8 +12126,8 @@
     },
     {
       "symbol": "300237.SZ",
-      "name": "美晨科技",
-      "is_st": 0.0,
+      "name": "ST美晨",
+      "is_st": 1.0,
       "market": "A",
       "exchange": "SZ"
     },
@@ -12406,13 +12407,6 @@
     {
       "symbol": "300279.SZ",
       "name": "和晶科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "300280.SZ",
-      "name": "紫天退",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -13889,7 +13883,7 @@
     },
     {
       "symbol": "300506.SZ",
-      "name": "ST名家汇",
+      "name": "*ST名家",
       "is_st": 1.0,
       "market": "A",
       "exchange": "SZ"
@@ -19964,6 +19958,13 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "301563.SZ",
+      "name": "云汉芯城",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "301565.SZ",
       "name": "中仑新材",
       "is_st": 0.0,
@@ -20035,7 +20036,7 @@
     },
     {
       "symbol": "301584.SZ",
-      "name": "N建发致新",
+      "name": "建发致新",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -20273,7 +20274,7 @@
     },
     {
       "symbol": "301656.SZ",
-      "name": "N联合动力",
+      "name": "联合动力",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -20295,6 +20296,13 @@
     {
       "symbol": "301665.SZ",
       "name": "泰禾股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "301668.SZ",
+      "name": "昊创瑞通",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -20406,7 +20414,7 @@
     },
     {
       "symbol": "600019.SH",
-      "name": "XD宝钢股",
+      "name": "宝钢股份",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -22121,7 +22129,7 @@
     },
     {
       "symbol": "600346.SH",
-      "name": "XD恒力石",
+      "name": "恒力石化",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -22149,7 +22157,7 @@
     },
     {
       "symbol": "600352.SH",
-      "name": "XD浙江龙",
+      "name": "浙江龙盛",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -22408,7 +22416,7 @@
     },
     {
       "symbol": "600397.SH",
-      "name": "安源煤业",
+      "name": "江钨装备",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -23584,7 +23592,7 @@
     },
     {
       "symbol": "600621.SH",
-      "name": "华鑫股份",
+      "name": "XD华鑫股",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -24228,8 +24236,8 @@
     },
     {
       "symbol": "600735.SH",
-      "name": "新华锦",
-      "is_st": 0.0,
+      "name": "ST新华锦",
+      "is_st": 1.0,
       "market": "A",
       "exchange": "SH"
     },
@@ -25732,6 +25740,13 @@
       "exchange": "SH"
     },
     {
+      "symbol": "601026.SH",
+      "name": "C道生",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SH"
+    },
+    {
       "symbol": "601033.SH",
       "name": "永兴股份",
       "is_st": 0.0,
@@ -25831,7 +25846,7 @@
     },
     {
       "symbol": "601096.SH",
-      "name": "XD宏盛华",
+      "name": "宏盛华源",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -26608,7 +26623,7 @@
     },
     {
       "symbol": "601678.SH",
-      "name": "XD滨化股",
+      "name": "滨化股份",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -27077,7 +27092,7 @@
     },
     {
       "symbol": "601969.SH",
-      "name": "XD海南矿",
+      "name": "海南矿业",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -27546,7 +27561,7 @@
     },
     {
       "symbol": "603062.SH",
-      "name": "XD麦加芯",
+      "name": "麦加芯彩",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -28022,7 +28037,7 @@
     },
     {
       "symbol": "603139.SH",
-      "name": "康惠制药",
+      "name": "康惠股份",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -28211,7 +28226,7 @@
     },
     {
       "symbol": "603182.SH",
-      "name": "XD嘉华股",
+      "name": "嘉华股份",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -28778,7 +28793,7 @@
     },
     {
       "symbol": "603288.SH",
-      "name": "XD海天味",
+      "name": "海天味业",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -29415,7 +29430,7 @@
     },
     {
       "symbol": "603418.SH",
-      "name": "C友升",
+      "name": "友升股份",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -30241,7 +30256,7 @@
     },
     {
       "symbol": "603697.SH",
-      "name": "XD有友食",
+      "name": "有友食品",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -30297,7 +30312,7 @@
     },
     {
       "symbol": "603708.SH",
-      "name": "家家悦",
+      "name": "XD家家悦",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -31102,7 +31117,7 @@
     },
     {
       "symbol": "603928.SH",
-      "name": "XD兴业股",
+      "name": "兴业股份",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -31648,7 +31663,7 @@
     },
     {
       "symbol": "605123.SH",
-      "name": "派克新材",
+      "name": "XD派克新",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -32712,7 +32727,7 @@
     },
     {
       "symbol": "688088.SH",
-      "name": "XD虹软科",
+      "name": "虹软科技",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -32845,7 +32860,7 @@
     },
     {
       "symbol": "688109.SH",
-      "name": "XD品茗科",
+      "name": "品茗科技",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -33153,7 +33168,7 @@
     },
     {
       "symbol": "688161.SH",
-      "name": "威高骨科",
+      "name": "XD威高骨",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -33433,7 +33448,7 @@
     },
     {
       "symbol": "688205.SH",
-      "name": "德科立",
+      "name": "XD德科立",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -33678,7 +33693,7 @@
     },
     {
       "symbol": "688247.SH",
-      "name": "宣泰医药",
+      "name": "XD宣泰医",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -34952,7 +34967,7 @@
     },
     {
       "symbol": "688507.SH",
-      "name": "索辰科技",
+      "name": "XD索辰科",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -35246,7 +35261,7 @@
     },
     {
       "symbol": "688563.SH",
-      "name": "航材股份",
+      "name": "XD航材股",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -36156,7 +36171,7 @@
     },
     {
       "symbol": "688758.SH",
-      "name": "XD赛分科",
+      "name": "赛分科技",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -36247,7 +36262,7 @@
     },
     {
       "symbol": "688789.SH",
-      "name": "宏华数科",
+      "name": "XD宏华数",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SH"
@@ -36302,1695 +36317,15 @@
       "exchange": "SH"
     },
     {
-      "symbol": "430017.SZ",
-      "name": "星昊医药",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430047.SZ",
-      "name": "诺思兰德",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430090.SZ",
-      "name": "同辉信息",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430139.SZ",
-      "name": "华岭股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430198.SZ",
-      "name": "微创光电",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430300.SZ",
-      "name": "辰光医疗",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430418.SZ",
-      "name": "苏轴股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430425.SZ",
-      "name": "乐创技术",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430476.SZ",
-      "name": "海能技术",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430478.SZ",
-      "name": "峆一药业",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430510.SZ",
-      "name": "丰光精密",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430556.SZ",
-      "name": "雅达股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430564.SZ",
-      "name": "天润科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430685.SZ",
-      "name": "新芝生物",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "430718.SZ",
-      "name": "合肥高科",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830779.SZ",
-      "name": "武汉蓝电",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830809.SZ",
-      "name": "安达科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830832.SZ",
-      "name": "齐鲁华信",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830839.SZ",
-      "name": "万通液压",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830879.SZ",
-      "name": "基康技术",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830896.SZ",
-      "name": "旺成科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830946.SZ",
-      "name": "森萱医药",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830964.SZ",
-      "name": "润农节水",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "830974.SZ",
-      "name": "凯大催化",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831010.SZ",
-      "name": "凯添燃气",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831039.SZ",
-      "name": "国义招标",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831087.SZ",
-      "name": "秋乐种业",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831152.SZ",
-      "name": "昆工科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831167.SZ",
-      "name": "鑫汇科",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831175.SZ",
-      "name": "派诺科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831195.SZ",
-      "name": "三祥科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831278.SZ",
-      "name": "泰德股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831304.SZ",
-      "name": "迪尔化工",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831305.SZ",
-      "name": "海希通讯",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831370.SZ",
-      "name": "新安洁",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831396.SZ",
-      "name": "许昌智能",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831526.SZ",
-      "name": "凯华材料",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831627.SZ",
-      "name": "力王股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831641.SZ",
-      "name": "格利尔",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831689.SZ",
-      "name": "克莱特",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831726.SZ",
-      "name": "朱老六",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831768.SZ",
-      "name": "拾比佰",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831832.SZ",
-      "name": "科达自控",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831834.SZ",
-      "name": "三维装备",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831855.SZ",
-      "name": "浙江大农",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831856.SZ",
-      "name": "浩淼科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831906.SZ",
-      "name": "舜宇精工",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "831961.SZ",
-      "name": "创远信科",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832000.SZ",
+      "symbol": "920000.SZ",
       "name": "安徽凤凰",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
     },
     {
-      "symbol": "832023.SZ",
-      "name": "田野股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832089.SZ",
-      "name": "禾昌聚合",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832110.SZ",
-      "name": "雷特科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832145.SZ",
-      "name": "恒合股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832149.SZ",
-      "name": "利尔达",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832171.SZ",
-      "name": "志晟信息",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832175.SZ",
-      "name": "东方碳素",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832225.SZ",
-      "name": "利通科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832278.SZ",
-      "name": "XD鹿得医",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832419.SZ",
-      "name": "路斯股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832469.SZ",
-      "name": "富恒新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832471.SZ",
-      "name": "美邦科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832491.SZ",
-      "name": "奥迪威",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832522.SZ",
-      "name": "纳科诺尔",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832566.SZ",
-      "name": "梓橦宫",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832651.SZ",
-      "name": "天罡股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832662.SZ",
-      "name": "方盛股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832735.SZ",
-      "name": "德源药业",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832786.SZ",
-      "name": "骑士乳业",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832802.SZ",
-      "name": "保丽洁",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832876.SZ",
-      "name": "慧为智能",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832885.SZ",
-      "name": "星辰科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832978.SZ",
-      "name": "开特股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "832982.SZ",
-      "name": "XD锦波生",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833030.SZ",
-      "name": "立方控股",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833075.SZ",
-      "name": "柏星龙",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833171.SZ",
-      "name": "国航远洋",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833230.SZ",
-      "name": "欧康医药",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833266.SZ",
-      "name": "生物谷",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833284.SZ",
-      "name": "灵鸽科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833346.SZ",
-      "name": "威贸电子",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833394.SZ",
-      "name": "民士达",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833427.SZ",
-      "name": "华维设计",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833429.SZ",
-      "name": "康比特",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833454.SZ",
-      "name": "同心传动",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833455.SZ",
-      "name": "汇隆活塞",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833509.SZ",
-      "name": "同惠电子",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833523.SZ",
-      "name": "德瑞锂电",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833533.SZ",
-      "name": "骏创科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833575.SZ",
-      "name": "康乐卫士",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833580.SZ",
-      "name": "科创新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833751.SZ",
-      "name": "惠同新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833781.SZ",
-      "name": "瑞奇智造",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833873.SZ",
-      "name": "中设咨询",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833914.SZ",
-      "name": "远航精密",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "833943.SZ",
-      "name": "优机股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834014.SZ",
-      "name": "特瑞斯",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834021.SZ",
-      "name": "流金科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834033.SZ",
-      "name": "康普化学",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834058.SZ",
-      "name": "华洋赛车",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834062.SZ",
-      "name": "科润智控",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834261.SZ",
-      "name": "一诺威",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834407.SZ",
-      "name": "驰诚股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834415.SZ",
-      "name": "恒拓开源",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834475.SZ",
-      "name": "三友科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834599.SZ",
-      "name": "同力股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834639.SZ",
-      "name": "晨光电缆",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834765.SZ",
-      "name": "美之高",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834770.SZ",
-      "name": "艾能聚",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "834950.SZ",
-      "name": "迅安科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835174.SZ",
-      "name": "五新隧装",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835179.SZ",
-      "name": "凯德石英",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835184.SZ",
-      "name": "国源科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835185.SZ",
-      "name": "贝特瑞",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835207.SZ",
-      "name": "众诚科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835237.SZ",
-      "name": "力佳科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835305.SZ",
-      "name": "*ST云创",
-      "is_st": 1.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835368.SZ",
-      "name": "连城数控",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835438.SZ",
-      "name": "戈碧迦",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835508.SZ",
-      "name": "殷图网联",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835579.SZ",
-      "name": "机科股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835640.SZ",
-      "name": "富士达",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835670.SZ",
-      "name": "数字人",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835857.SZ",
-      "name": "百甲科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835892.SZ",
-      "name": "中科美菱",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "835985.SZ",
-      "name": "海泰新能",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836077.SZ",
-      "name": "吉林碳谷",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836149.SZ",
-      "name": "旭杰科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836208.SZ",
-      "name": "青矩技术",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836221.SZ",
-      "name": "易实精密",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836239.SZ",
-      "name": "长虹能源",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836247.SZ",
-      "name": "华密新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836260.SZ",
-      "name": "中寰股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836263.SZ",
-      "name": "中航泰达",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836270.SZ",
-      "name": "天铭科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836395.SZ",
-      "name": "朗鸿科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836414.SZ",
-      "name": "欧普泰",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836419.SZ",
-      "name": "万德股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836422.SZ",
-      "name": "润普食品",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836433.SZ",
-      "name": "大唐药业",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836504.SZ",
-      "name": "博迅生物",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836547.SZ",
-      "name": "无锡晶海",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836675.SZ",
-      "name": "秉扬科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836699.SZ",
-      "name": "海达尔",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836717.SZ",
-      "name": "瑞星股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836720.SZ",
-      "name": "吉冈精密",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836807.SZ",
-      "name": "奔朗新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836826.SZ",
-      "name": "盖世食品",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836871.SZ",
-      "name": "派特尔",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836892.SZ",
-      "name": "广咨国际",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836942.SZ",
-      "name": "恒立钻具",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836957.SZ",
-      "name": "汉维科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "836961.SZ",
-      "name": "西磁科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837006.SZ",
-      "name": "晟楠科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837023.SZ",
-      "name": "芭薇股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837046.SZ",
-      "name": "亿能电力",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837092.SZ",
-      "name": "汉鑫科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837174.SZ",
-      "name": "宏裕包材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837212.SZ",
-      "name": "智新电子",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837242.SZ",
-      "name": "建邦科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837344.SZ",
-      "name": "三元基因",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837403.SZ",
-      "name": "康农种业",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837592.SZ",
-      "name": "华信永道",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837663.SZ",
-      "name": "明阳科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837748.SZ",
-      "name": "路桥信息",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "837821.SZ",
-      "name": "则成电子",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838030.SZ",
-      "name": "德众汽车",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838163.SZ",
-      "name": "方大新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838171.SZ",
-      "name": "邦德股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838227.SZ",
-      "name": "美登科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838262.SZ",
-      "name": "太湖雪",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838275.SZ",
-      "name": "驱动力",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838402.SZ",
-      "name": "硅烷科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838670.SZ",
-      "name": "恒进感应",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838701.SZ",
-      "name": "豪声电子",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838810.SZ",
-      "name": "春光智能",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838837.SZ",
-      "name": "华原股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838924.SZ",
-      "name": "广脉科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "838971.SZ",
-      "name": "天马新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839273.SZ",
-      "name": "一致魔芋",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839371.SZ",
-      "name": "欧福蛋业",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839493.SZ",
-      "name": "并行科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839680.SZ",
-      "name": "*ST广道",
-      "is_st": 1.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839719.SZ",
-      "name": "宁新新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839725.SZ",
-      "name": "惠丰钻石",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839729.SZ",
-      "name": "永顺生物",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839790.SZ",
-      "name": "联迪信息",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839792.SZ",
-      "name": "东和新材",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "839946.SZ",
-      "name": "华阳变速",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870199.SZ",
-      "name": "倍益康",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870204.SZ",
-      "name": "沪江材料",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870299.SZ",
-      "name": "灿能电力",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870357.SZ",
-      "name": "雅葆轩",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870436.SZ",
-      "name": "大地电气",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870508.SZ",
-      "name": "丰安股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870656.SZ",
-      "name": "海昇药业",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870726.SZ",
-      "name": "鸿智科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870866.SZ",
-      "name": "绿亨科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "870976.SZ",
-      "name": "视声智能",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871245.SZ",
-      "name": "威博液压",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871263.SZ",
-      "name": "莱赛激光",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871396.SZ",
-      "name": "常辅股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871478.SZ",
-      "name": "巨能股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871553.SZ",
-      "name": "凯腾精工",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871634.SZ",
-      "name": "新威凌",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871642.SZ",
-      "name": "通易航天",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871694.SZ",
-      "name": "中裕科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871753.SZ",
-      "name": "天纺标",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871857.SZ",
-      "name": "泓禧科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871970.SZ",
-      "name": "大禹生物",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "871981.SZ",
-      "name": "晶赛科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872190.SZ",
-      "name": "雷神科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872351.SZ",
-      "name": "华光源海",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872374.SZ",
-      "name": "云里物里",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872392.SZ",
-      "name": "佳合科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872541.SZ",
-      "name": "铁大科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872808.SZ",
-      "name": "曙光数创",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872895.SZ",
-      "name": "花溪科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872925.SZ",
-      "name": "锦好医疗",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872931.SZ",
-      "name": "无锡鼎邦",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "872953.SZ",
-      "name": "国子软件",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873001.SZ",
+      "symbol": "920001.SZ",
       "name": "纬达光电",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873122.SZ",
-      "name": "中纺标",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873132.SZ",
-      "name": "泰鹏智能",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873152.SZ",
-      "name": "天宏锂电",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873167.SZ",
-      "name": "新赣江",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873169.SZ",
-      "name": "七丰精工",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873223.SZ",
-      "name": "荣亿精密",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873305.SZ",
-      "name": "九菱科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873339.SZ",
-      "name": "恒太照明",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873527.SZ",
-      "name": "夜光明",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873570.SZ",
-      "name": "坤博精工",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873576.SZ",
-      "name": "天力复合",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873593.SZ",
-      "name": "鼎智科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873665.SZ",
-      "name": "科强股份",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873679.SZ",
-      "name": "前进科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873690.SZ",
-      "name": "捷众科技",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873693.SZ",
-      "name": "阿为特",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873703.SZ",
-      "name": "广厦环能",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873706.SZ",
-      "name": "铁拓机械",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873726.SZ",
-      "name": "卓兆点胶",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873806.SZ",
-      "name": "云星宇",
-      "is_st": 0.0,
-      "market": "A",
-      "exchange": "SZ"
-    },
-    {
-      "symbol": "873833.SZ",
-      "name": "XD美心翼",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38010,6 +36345,13 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920006.SZ",
+      "name": "晟楠科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920007.SZ",
       "name": "酉立智能",
       "is_st": 0.0,
@@ -38024,8 +36366,22 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920010.SZ",
+      "name": "凯添燃气",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920014.SZ",
+      "name": "特瑞斯",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920015.SZ",
-      "name": "N锦华",
+      "name": "锦华新材",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38033,6 +36389,13 @@
     {
       "symbol": "920016.SZ",
       "name": "中草香料",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920017.SZ",
+      "name": "星昊医药",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38052,8 +36415,29 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920021.SZ",
+      "name": "流金科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920022.SZ",
       "name": "世昌股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920023.SZ",
+      "name": "田野股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920026.SZ",
+      "name": "卓兆点胶",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38073,8 +36457,43 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920030.SZ",
+      "name": "德众汽车",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920033.SZ",
+      "name": "康普化学",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920037.SZ",
       "name": "广信科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920039.SZ",
+      "name": "国义招标",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920046.SZ",
+      "name": "亿能电力",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920047.SZ",
+      "name": "诺思兰德",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38087,8 +36506,36 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920057.SZ",
+      "name": "百甲科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920058.SZ",
+      "name": "华洋赛车",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920060.SZ",
       "name": "万源通",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920061.SZ",
+      "name": "西磁科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920062.SZ",
+      "name": "科润智控",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38108,6 +36555,27 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920075.SZ",
+      "name": "柏星龙",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920077.SZ",
+      "name": "吉林碳谷",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920080.SZ",
+      "name": "奥美森",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920082.SZ",
       "name": "方正阀门",
       "is_st": 0.0,
@@ -38115,8 +36583,36 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920087.SZ",
+      "name": "秋乐种业",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920088.SZ",
       "name": "科力股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920089.SZ",
+      "name": "禾昌聚合",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920090.SZ",
+      "name": "同辉信息",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920092.SZ",
+      "name": "汉鑫科技",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38164,6 +36660,13 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920110.SZ",
+      "name": "雷特科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920111.SZ",
       "name": "聚星科技",
       "is_st": 0.0,
@@ -38192,8 +36695,85 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920122.SZ",
+      "name": "中纺标",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920123.SZ",
+      "name": "芭薇股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920128.SZ",
       "name": "胜业电气",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920130.SZ",
+      "name": "立方控股",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920132.SZ",
+      "name": "泰鹏智能",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920139.SZ",
+      "name": "华岭股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920145.SZ",
+      "name": "恒合股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920146.SZ",
+      "name": "华阳变速",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920149.SZ",
+      "name": "旭杰科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920152.SZ",
+      "name": "昆工科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920158.SZ",
+      "name": "长江能科",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920163.SZ",
+      "name": "方大新材",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38206,8 +36786,589 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920169.SZ",
+      "name": "七丰精工",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920171.SZ",
+      "name": "志晟信息",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920174.SZ",
+      "name": "五新隧装",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920175.SZ",
+      "name": "东方碳素",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920179.SZ",
+      "name": "凯德石英",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920184.SZ",
+      "name": "国源科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920185.SZ",
+      "name": "贝特瑞",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920190.SZ",
+      "name": "雷神科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920195.SZ",
+      "name": "三祥科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920198.SZ",
+      "name": "微创光电",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920199.SZ",
+      "name": "倍益康",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920204.SZ",
+      "name": "沪江材料",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920207.SZ",
+      "name": "众诚科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920208.SZ",
+      "name": "青矩技术",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920212.SZ",
+      "name": "智新电子",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920221.SZ",
+      "name": "易实精密",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920223.SZ",
+      "name": "荣亿精密",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920225.SZ",
+      "name": "利通科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920227.SZ",
+      "name": "美登科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920230.SZ",
+      "name": "欧康医药",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920237.SZ",
+      "name": "力佳科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920239.SZ",
+      "name": "长虹能源",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920242.SZ",
+      "name": "建邦科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920245.SZ",
+      "name": "威博液压",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920247.SZ",
+      "name": "华密新材",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920249.SZ",
+      "name": "利尔达",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920252.SZ",
+      "name": "天宏锂电",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920260.SZ",
+      "name": "中寰股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920261.SZ",
+      "name": "一诺威",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920262.SZ",
+      "name": "太湖雪",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920263.SZ",
+      "name": "中航泰达",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920266.SZ",
+      "name": "生物谷",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920267.SZ",
+      "name": "鑫汇科",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920270.SZ",
+      "name": "天铭科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920271.SZ",
+      "name": "邦德股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920273.SZ",
+      "name": "一致魔芋",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920274.SZ",
+      "name": "宏裕包材",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920275.SZ",
+      "name": "驱动力",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920278.SZ",
+      "name": "鹿得医疗",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920284.SZ",
+      "name": "灵鸽科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920299.SZ",
+      "name": "灿能电力",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920300.SZ",
+      "name": "辰光医疗",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920304.SZ",
+      "name": "迪尔化工",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920305.SZ",
+      "name": "*ST云创",
+      "is_st": 1.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920339.SZ",
+      "name": "恒太照明",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920344.SZ",
+      "name": "三元基因",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920346.SZ",
+      "name": "威贸电子",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920351.SZ",
+      "name": "华光源海",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920357.SZ",
+      "name": "雅葆轩",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920363.SZ",
+      "name": "莱赛激光",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920367.SZ",
+      "name": "新赣江",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920368.SZ",
+      "name": "连城数控",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920370.SZ",
+      "name": "新安洁",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920371.SZ",
+      "name": "欧福蛋业",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920374.SZ",
+      "name": "云里物里",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920375.SZ",
+      "name": "派诺科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920378.SZ",
+      "name": "泰德股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920392.SZ",
+      "name": "佳合科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920394.SZ",
+      "name": "民士达",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920395.SZ",
+      "name": "朗鸿科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920396.SZ",
+      "name": "常辅股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920402.SZ",
+      "name": "硅烷科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920403.SZ",
+      "name": "康农种业",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920405.SZ",
+      "name": "海希通讯",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920407.SZ",
+      "name": "驰诚股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920414.SZ",
+      "name": "欧普泰",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920415.SZ",
+      "name": "恒拓开源",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920418.SZ",
+      "name": "苏轴股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920419.SZ",
+      "name": "路斯股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920422.SZ",
+      "name": "润普食品",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920425.SZ",
+      "name": "乐创技术",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920427.SZ",
+      "name": "华维设计",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920429.SZ",
+      "name": "康比特",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920433.SZ",
+      "name": "大唐药业",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920436.SZ",
+      "name": "大地电气",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920438.SZ",
+      "name": "戈碧迦",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920445.SZ",
       "name": "龙竹科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920454.SZ",
+      "name": "同心传动",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920455.SZ",
+      "name": "汇隆活塞",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920469.SZ",
+      "name": "富恒新材",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920471.SZ",
+      "name": "美邦科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920475.SZ",
+      "name": "三友科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920476.SZ",
+      "name": "海能技术",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920478.SZ",
+      "name": "峆一药业",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38220,8 +37381,526 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920491.SZ",
+      "name": "奥迪威",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920493.SZ",
+      "name": "并行科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920496.SZ",
+      "name": "许昌智能",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920504.SZ",
+      "name": "博迅生物",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920505.SZ",
+      "name": "九菱科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920508.SZ",
+      "name": "殷图网联",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920509.SZ",
+      "name": "同惠电子",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920510.SZ",
+      "name": "丰光精密",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920519.SZ",
+      "name": "万德股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920522.SZ",
+      "name": "纳科诺尔",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920523.SZ",
+      "name": "德瑞锂电",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920526.SZ",
+      "name": "凯华材料",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920527.SZ",
+      "name": "夜光明",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920533.SZ",
+      "name": "骏创科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920541.SZ",
+      "name": "铁大科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920547.SZ",
+      "name": "无锡晶海",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920553.SZ",
+      "name": "凯腾精工",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920556.SZ",
+      "name": "雅达股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920564.SZ",
+      "name": "天润科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920566.SZ",
+      "name": "梓橦宫",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920570.SZ",
+      "name": "坤博精工",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920571.SZ",
+      "name": "国航远洋",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920575.SZ",
+      "name": "康乐卫士",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920576.SZ",
+      "name": "天力复合",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920578.SZ",
+      "name": "巨能股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920579.SZ",
+      "name": "机科股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920580.SZ",
+      "name": "科创新材",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920592.SZ",
+      "name": "华信永道",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920593.SZ",
+      "name": "鼎智科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920599.SZ",
+      "name": "同力股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920608.SZ",
+      "name": "丰安股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920627.SZ",
+      "name": "力王股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920634.SZ",
+      "name": "新威凌",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920639.SZ",
+      "name": "晨光电缆",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920640.SZ",
+      "name": "富士达",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920641.SZ",
+      "name": "格利尔",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920642.SZ",
+      "name": "通易航天",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920651.SZ",
+      "name": "天罡股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920656.SZ",
+      "name": "海昇药业",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920662.SZ",
+      "name": "方盛股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920663.SZ",
+      "name": "XD明阳科",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920665.SZ",
+      "name": "科强股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920670.SZ",
+      "name": "数字人",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920675.SZ",
+      "name": "秉扬科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920679.SZ",
+      "name": "前进科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920680.SZ",
+      "name": "*ST广道",
+      "is_st": 1.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920682.SZ",
       "name": "球冠电缆",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920685.SZ",
+      "name": "新芝生物",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920689.SZ",
+      "name": "克莱特",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920690.SZ",
+      "name": "捷众科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920693.SZ",
+      "name": "阿为特",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920694.SZ",
+      "name": "中裕科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920699.SZ",
+      "name": "海达尔",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920701.SZ",
+      "name": "豪声电子",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920703.SZ",
+      "name": "广厦环能",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920706.SZ",
+      "name": "铁拓机械",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920717.SZ",
+      "name": "瑞星股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920718.SZ",
+      "name": "合肥高科",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920719.SZ",
+      "name": "宁新新材",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920720.SZ",
+      "name": "吉冈精密",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920725.SZ",
+      "name": "惠丰钻石",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920726.SZ",
+      "name": "朱老六",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920729.SZ",
+      "name": "永顺生物",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920735.SZ",
+      "name": "德源药业",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920748.SZ",
+      "name": "路桥信息",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920751.SZ",
+      "name": "惠同新材",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920753.SZ",
+      "name": "天纺标",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920765.SZ",
+      "name": "美之高",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920768.SZ",
+      "name": "拾比佰",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920770.SZ",
+      "name": "艾能聚",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920779.SZ",
+      "name": "武汉蓝电",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920781.SZ",
+      "name": "瑞奇智造",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920786.SZ",
+      "name": "骑士乳业",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920790.SZ",
+      "name": "联迪信息",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920792.SZ",
+      "name": "东和新材",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
@@ -38234,8 +37913,358 @@
       "exchange": "SZ"
     },
     {
+      "symbol": "920802.SZ",
+      "name": "保丽洁",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920806.SZ",
+      "name": "云星宇",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920807.SZ",
+      "name": "奔朗新材",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920808.SZ",
+      "name": "曙光数创",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920809.SZ",
+      "name": "安达科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920810.SZ",
+      "name": "春光智能",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
       "symbol": "920819.SZ",
       "name": "颖泰生物",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920821.SZ",
+      "name": "则成电子",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920826.SZ",
+      "name": "盖世食品",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920832.SZ",
+      "name": "齐鲁华信",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920833.SZ",
+      "name": "美心翼申",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920834.SZ",
+      "name": "三维装备",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920837.SZ",
+      "name": "华原股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920839.SZ",
+      "name": "万通液压",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920855.SZ",
+      "name": "浙江大农",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920856.SZ",
+      "name": "浩淼科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920857.SZ",
+      "name": "泓禧科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920866.SZ",
+      "name": "绿亨科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920870.SZ",
+      "name": "恒进感应",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920871.SZ",
+      "name": "派特尔",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920873.SZ",
+      "name": "中设咨询",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920876.SZ",
+      "name": "慧为智能",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920879.SZ",
+      "name": "基康技术",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920885.SZ",
+      "name": "星辰科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920892.SZ",
+      "name": "广咨国际",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920895.SZ",
+      "name": "花溪科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920896.SZ",
+      "name": "旺成科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920906.SZ",
+      "name": "舜宇精工",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920914.SZ",
+      "name": "远航精密",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920924.SZ",
+      "name": "广脉科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920925.SZ",
+      "name": "锦好医疗",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920926.SZ",
+      "name": "鸿智科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920931.SZ",
+      "name": "无锡鼎邦",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920932.SZ",
+      "name": "科达自控",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920942.SZ",
+      "name": "恒立钻具",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920943.SZ",
+      "name": "优机股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920946.SZ",
+      "name": "森萱医药",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920950.SZ",
+      "name": "迅安科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920953.SZ",
+      "name": "国子软件",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920957.SZ",
+      "name": "汉维科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920961.SZ",
+      "name": "创远信科",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920964.SZ",
+      "name": "润农节水",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920970.SZ",
+      "name": "大禹生物",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920971.SZ",
+      "name": "天马新材",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920974.SZ",
+      "name": "凯大催化",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920976.SZ",
+      "name": "视声智能",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920978.SZ",
+      "name": "开特股份",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920981.SZ",
+      "name": "晶赛科技",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920982.SZ",
+      "name": "锦波生物",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920985.SZ",
+      "name": "海泰新能",
+      "is_st": 0.0,
+      "market": "A",
+      "exchange": "SZ"
+    },
+    {
+      "symbol": "920992.SZ",
+      "name": "中科美菱",
       "is_st": 0.0,
       "market": "A",
       "exchange": "SZ"
